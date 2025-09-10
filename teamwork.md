@@ -18,61 +18,60 @@ What are the names of all the team members?
 
 ## Expectations
 - **Maximum hours per week committed (including meetings):**  
-  [Answer]  
+  2 Hours per member for now
 
 - **How far in advance of a deliverable deadline should tasks be completed?**  
-  [Answer]  
+  24 hours before the deadline
 
 - **Process for notifying the team if a member cannot complete tasks on time:**  
-  [Answer]  
+  Via Whatsapp
 
 - **Quality standards for all submissions:**  
-  [Answer]  
+  At least two members double check the final work before submission
 
 ---
 
 ## Communication
 - **Regular in-person meetings (when, where, and purpose):**  
-  [Answer]  
+  Weekly on Thursday between 12:15 to 2 PM in-person  
 
 - **Regular online meetings (when and on what platform):**  
-  [Answer]  
+  Potentially on Fridays or weekend via Google Meets
 
 - **Primary communication tools for informal and project-related discussions:**  
-  [Answer]  
+  Whatsapp / or Canva for slide deck
 
 - **How and when we will meet with our mentor:**  
-  [Answer]  
+  May ask questions before/after classes OR schedule an appointment 
 
 ---
 
 ## Task Management
 - **System to track tasks and progress:**  
-  [Answer]  
+  Google Doc
 
 - **Process for assigning tasks and marking them as complete:**  
-  [Answer]  
+  Google Sheet
 
 ---
 
 ## Code Reviews and Contributions
 - **Branching strategy for the GitHub repository:**  
-  [Answer]  
+  Just creating their own branch from the group repo
 
 - **Process for submitting and merging pull requests:**  
-  [Answer]  
+  Mint will review the comitted requests and merge them
 
 - **Expected timeframe for reviewing a teammate's pull request:**  
-  [Answer]  
+  12 Hours before deadline for everyone to push their versions / branches to the main branch. Then Mint will review and pull the request
 
 ---
 
 ## Breach of Contract
 What is our agreed-upon three-step process for addressing a breach of this contract?
 
-1. [Answer]  
-2. [Answer]  
-3. [Answer]  
+1. A member can have up to 2 notifications before we speak to the mentor 
+2. We remove the member from the group
 
 ---
 ## Values Exercise
