@@ -86,14 +86,14 @@ This helps the team understand each member’s priorities and perspectives.
 | Transparency | I appreciate open communication, especially when things don’t go as planned. For example, if you can’t make a meeting, letting the team know early helps us adjust. Similarly, if your workload becomes overwhelming, or if something isn’t clear, being upfront allows us to support each other and find solutions together.
 | Thoughtfulness & Teamwork | I value care and thoughtfulness in the work we produce. It’s not about perfection, but about paying attention to detail and putting in the effort to deliver meaningful work. This also means stepping in when something needs to be done, offering help, and contributing to solutions rather than waiting for direction.
 
-**Name:** [Team Member Name]  
+**Name:** Cynthia Urrutia  
 
 | Value | Definition / Example |
 |-------|---------------------|
-| 1 | [Definition / Example] |
-| 2 | [Definition / Example] |
-| 3 | [Definition / Example] |
-| 4 | [Definition / Example] |
+| 1 | [Transparency / Being honest with goals and challenges.] |
+| 2 | [Accountability / Each member should take ownerships of any decisions and the results.] |
+| 3 | [Innovation / Encourage creativity and newapproaches without fear of jusgment.] |
+| 4 | [Respect / Valuing each team member perspective and approach.] |
 | 5 | [Definition / Example] |
 
 **Name:** [Team Member Name]  
