@@ -9,40 +9,39 @@ Add this file to your github group repository as `CODE_OF_CONDUCT.md`
 ## Team Members
 What are the names of all the team members?
 
-- [Team Member Name 1]  
-- [Team Member Name 2]  
-- [Team Member Name 3]  
-- [Team Member Name 4]  
+- Ngoc Ha (Mint) Thai
+- Chaitanya Thirampuram
+- Cynthia Urrutia Chacon  
 
 ---
 
 ## Expectations
 - **Maximum hours per week committed (including meetings):**  
-  2 Hours per member for now
+  Each member can commit up to 2 hours per week for now.
 
 - **How far in advance of a deliverable deadline should tasks be completed?**  
-  24 hours before the deadline
+  A deliverable should be completed 24 hours before the deadline.
 
 - **Process for notifying the team if a member cannot complete tasks on time:**  
-  Via Whatsapp
+  Notifiying the team via Whatsapp Group.
 
 - **Quality standards for all submissions:**  
-  At least two members double check the final work before submission
+  At least two members need to double-check the final work before submission.
 
 ---
 
 ## Communication
 - **Regular in-person meetings (when, where, and purpose):**  
-  Weekly on Thursday between 12:15 to 2 PM in-person  
+  In-person weekly meeting on Thursdays between 12:15 to 2 PM. 
 
 - **Regular online meetings (when and on what platform):**  
-  Potentially on Fridays or weekend via Google Meets
+  If additional meetings are needed, we could meet virtually on Friday or over the weeekend using Google Meets
 
 - **Primary communication tools for informal and project-related discussions:**  
-  Whatsapp / or Canva for slide deck
+  Whatsapp
 
 - **How and when we will meet with our mentor:**  
-  May ask questions before/after classes OR schedule an appointment 
+  We'll meet with our mentor before or after classes during the week for quick questions or schedule an apppointment
 
 ---
 
@@ -57,21 +56,21 @@ What are the names of all the team members?
 
 ## Code Reviews and Contributions
 - **Branching strategy for the GitHub repository:**  
-  Just creating their own branch from the group repo
+  Each member creates their own branch from the group repo
 
 - **Process for submitting and merging pull requests:**  
-  Mint will review the comitted requests and merge them
+  Each member will push their committed work and Mint will review and merge the pull requests
 
 - **Expected timeframe for reviewing a teammate's pull request:**  
-  12 Hours before deadline for everyone to push their versions / branches to the main branch. Then Mint will review and pull the request
+  12 hours before deadline for everyone to push their versions / branches to the main branch. Then Mint will review and pull the request.
 
 ---
 
 ## Breach of Contract
 What is our agreed-upon three-step process for addressing a breach of this contract?
 
-1. A member can have up to 2 notifications before we speak to the mentor 
-2. We remove the member from the group
+1. A member can have up to 2 notifications before we bring our concerns to the mentor
+2. After two notifications and there is no effort made, we unfortunately have to remove the member from the group
 
 ---
 ## Values Exercise
@@ -80,14 +79,12 @@ This helps the team understand each member’s priorities and perspectives.
 
 ### Example:
 
-**Name:** [Team Member Name] 
+**Name:** Mint Thai
 | Value | Definition / Example |
 |-------|---------------------------------------------|
-| Integrity | I clearly document my data sources, explain assumptions in analyses, and honestly report any errors or uncertainties in my code or results. |
-| Respect | I review teammates’ code carefully before giving feedback, respond constructively to suggestions, and respect others’ time by showing up prepared to meetings and discussions. |
-| 3 | [Definition / Example] |
-| 4 | [Definition / Example] |
-| 5 | [Definition / Example] |
+| Accountability | I value accountability and appreciate when team members take ownership of their responsibilities. To me, this means following through on commitments and ensuring that what you’ve been assigned is delivered as expected. It builds trust and reliability within the team.
+| Transparency | I appreciate open communication, especially when things don’t go as planned. For example, if you can’t make a meeting, letting the team know early helps us adjust. Similarly, if your workload becomes overwhelming, or if something isn’t clear, being upfront allows us to support each other and find solutions together.
+| Thoughtfulness & Teamwork | I value care and thoughtfulness in the work we produce. It’s not about perfection, but about paying attention to detail and putting in the effort to deliver meaningful work. This also means stepping in when something needs to be done, offering help, and contributing to solutions rather than waiting for direction.
 
 **Name:** [Team Member Name]  
 
@@ -114,7 +111,7 @@ This helps the team understand each member’s priorities and perspectives.
 ## Signatures
 By signing below, each team member agrees to the terms and conditions outlined in this contract.
 
-- [Signature - Name 1] — [Date]  
+- [Mint Thai] — [September 10, 2025]  
 - [Signature - Name 2] — [Date]  
 - [Signature - Name 3] — [Date]  
 - [Signature - Name 4] — [Date]  
