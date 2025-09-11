@@ -86,15 +86,15 @@ This helps the team understand each member’s priorities and perspectives.
 | Transparency | I appreciate open communication, especially when things don’t go as planned. For example, if you can’t make a meeting, letting the team know early helps us adjust. Similarly, if your workload becomes overwhelming, or if something isn’t clear, being upfront allows us to support each other and find solutions together.
 | Thoughtfulness & Teamwork | I value care and thoughtfulness in the work we produce. It’s not about perfection, but about paying attention to detail and putting in the effort to deliver meaningful work. This also means stepping in when something needs to be done, offering help, and contributing to solutions rather than waiting for direction.
 
-**Name:** [Team Member Name]  
+**Name:** [Chaitanya Thirampuram]  
 
 | Value | Definition / Example |
 |-------|---------------------|
-| 1 | [Definition / Example] |
-| 2 | [Definition / Example] |
-| 3 | [Definition / Example] |
-| 4 | [Definition / Example] |
-| 5 | [Definition / Example] |
+| 1 | [Responsibility / I concider one taking whole charge of the work thats assigned to them as a duty and finish it in time without being irresponsible as a value that I look forward in any of them I work with ] |
+| 2 | [Adaptabiity / As we know we all come from different backgrounds, I'm easily adaptable with most of the things, and I value someone who can easily adapt and work in different environments.] |
+| 3 | [Time / As every one knows time is the most valuble thing ever, so if some thing goes bad before some deadline just letting us know upfront so nobody"s time or energy is wasted.] |
+| 4 | [Openness / If something is bothering insted of being quite its better to let it out and being open clears most of the problems in the group.] |
+
 
 **Name:** [Team Member Name]  
 
@@ -112,6 +112,6 @@ This helps the team understand each member’s priorities and perspectives.
 By signing below, each team member agrees to the terms and conditions outlined in this contract.
 
 - [Mint Thai] — [September 10, 2025]  
-- [Signature - Name 2] — [Date]  
+- [Chaitanya Thirampuram] — [September 10, 2025]  
 - [Signature - Name 3] — [Date]  
 - [Signature - Name 4] — [Date]  
