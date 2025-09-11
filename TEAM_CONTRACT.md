@@ -90,10 +90,10 @@ This helps the team understand each member’s priorities and perspectives.
 
 | Value | Definition / Example |
 |-------|---------------------|
-| 1 | [Responsibility / I concider one taking whole charge of the work thats assigned to them as a duty and finish it in time without being irresponsible as a value that I look forward in any of them I work with ] |
-| 2 | [Adaptabiity / As we know we all come from different backgrounds, I'm easily adaptable with most of the things, and I value someone who can easily adapt and work in different environments.] |
-| 3 | [Time / As every one knows time is the most valuble thing ever, so if some thing goes bad before some deadline just letting us know upfront so nobody"s time or energy is wasted.] |
-| 4 | [Openness / If something is bothering insted of being quite its better to let it out and being open clears most of the problems in the group.] |
+| Responsibility | I concider one taking whole charge of the work thats assigned to them as a duty and finish it in time without being irresponsible as a value that I look forward in any of them I work with |
+| Adaptability | As we know, we all come from different backgrounds. I'm easily adaptable to most things, and I value someone who can easily adapt and work in different environments. |
+| Time | As every one knows time is the most valuble thing ever, so if some thing goes bad before some deadline just letting us know upfront so nobody"s time or energy is wasted. |
+| Openness | If something is bothering insted of being quite its better to let it out and being open clears most of the problems in the group. |
 
 
 **Name:** [Team Member Name]  
