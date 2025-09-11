@@ -4,6 +4,8 @@ This document is a framework for our team to establish a clear and effective wor
 
 Add this file to your github group repository as `CODE_OF_CONDUCT.md`
 
+Test test test
+
 ---
 
 ## Team Members
